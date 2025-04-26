@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <img src="https://github.com/A-suozhang/MyPicBed/raw/master/img/20240624211802.png" alt="drawing" width="30"/> K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge</h1>  
+<h1>  K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge</h1>  
 
 <a href="https://arxiv.org/abs/">
   <img alt="arxiv" src="https://img.shields.io/badge/arXiv-%3C2505.xxxxx%3E-%23a72f20.svg">
@@ -11,7 +11,7 @@
 
 This repo contains the official code of the paper: [K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge](https://arxiv.org/abs/). K-Sort Eval utilizes **Corrected VLM-as-a-Judge** to achieve efficient and reliable evaluation for visual generation, including text-to-image and text-to-video models.
 <div align=center>
-  <img src="overview.png" width="600px" />
+  <img src="overview.png" width="1000px" />
   </div>
 
 ### News
