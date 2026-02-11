@@ -9,12 +9,13 @@
 </a>
 </div>
 
-This repo contains the official code of the paper: [K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge](https://arxiv.org/abs/). K-Sort Eval utilizes **Corrected VLM-as-a-Judge** to achieve efficient and reliable evaluation for visual generation, including text-to-image and text-to-video models.
+This repo contains the official code of the **ICLR 2026** paper: [K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge](https://arxiv.org/abs/2602.09411). K-Sort Eval utilizes **Corrected VLM-as-a-Judge** to achieve efficient and reliable evaluation for visual generation, including text-to-image and text-to-video models.
 <div align=center>
   <img src="overview.png" width="1000px" />
   </div>
 
 ### News
+- [26/01] K-Sort Eval is accepted to ICLR 2026.
 - [25/04] We release K-Sort Eval code in this repo.
 - [25/04] We release K-Sort Eval dataset at [Huggingface](https://huggingface.co/datasets/ksort/K-Sort-Eval).
 
