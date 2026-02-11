@@ -2,7 +2,7 @@
 <h1>  K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge</h1>  
 
 <a href="https://arxiv.org/abs/">
-  <img alt="arxiv" src="https://img.shields.io/badge/arXiv-%3C2505.xxxxx%3E-%23a72f20.svg">
+  <img alt="arxiv" src="https://img.shields.io/badge/arXiv-%3C2602.09411%3E-%23a72f20.svg">
 </a>
 <a href="https://huggingface.co/datasets/ksort/K-Sort-Eval">
     <img alt="Dataset" src="https://img.shields.io/badge/Dataset-blue?style=flat&logo=googlechrome&logoColor=white">
